@@ -73,12 +73,6 @@
   <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi" /></a>
 </p>
 
-<hr>
-<p align="center"><samp><strong>Most Used Languages</strong></samp></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidsaberi&theme=react&count_private=true&hide_border=true&layout=compact&bg_color=141321&title_color=A8FDF6" alt="Most Used Languages" />
-</p>
-
 <p align="center"><samp><strong>Github Status</strong></samp></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
