@@ -1,29 +1,76 @@
-<p align="center"><h1 align="center"><samp> I'm Vahid Saberi </samp></h1></p>
-<p align="center"><samp> Mobile Application and Front-End Developer <br> 
- From Iran 🇮🇷 , Esf 🗺️ </samp></p>
- <br>
+<h1 align="center">Hi there, I'm Vahid Saberi 👋</h1>
 
-<p align="center"><samp><strong>Programming Language & FreamWorks</strong></samp></p>
+<p align="center"> 
+ <a href="https://github.com/vahidsaberi" alt="vahid saberi's github">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
+ </a>
+ <a href="https://www.linkedin.com/in/vahid-saberi/" alt="vahid saberi's linedin">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
+ </a>
+  <a href="https://twitter.com/DrCyrusPirates" alt="vahid saberi's twitter">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
+ </a>
+  <a href="https://the-v.com" alt="vahid saberi's blog">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=967bb6&logo=Microsoft+Edge&logoColor=FFFFFF&label=" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=vahidsaberi&color=ff69b4&style=for-the-badge" />
+ </a>
+</p>
+
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
+
 <p align="center">
-  
-<img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-React-EDEADE?style=for-the-badge&logo=react" alt="React-JS" />
-<img src="https://img.shields.io/badge/-Redux-ada7ff?style=for-the-badge&logo=redux" alt="Redux" />
-<img src="https://img.shields.io/badge/-postgresql-336186?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" with="50" height="50" alt="dotnet" >
+  </a>
+      <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="50" height="50" alt="javascript" >
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" with="50" height="50" alt="typescript" >
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" with="50" height="50" alt="react" >
+  </a>
+    <a href="https://azure.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" >
+  </a>
+   </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" with="50" height="50" alt="kubernetes" >
+  </a>  
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" with="50" height="50" alt="mongodb" >
+  </a>  
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" with="50" height="50" alt="redis" >
+  </a>  
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" with="50" height="50" alt="sqlserver" >
+  </a>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" with="50" height="50" alt="rabbitmq" >
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" with="50" height="50" alt="kafka" >
+  </a>
+  <br/>
+</p>
+<br/>
 
- </p>   
-
-<hr>
-<p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
-  <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="SASS" />
-  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
-  <img src="https://img.shields.io/badge/-html5-d3d3d3?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-css3-277da1?style=for-the-badge&logo=css3" alt="CSS" />
-  <img src="https://img.shields.io/badge/-sass-ffafcc?style=for-the-badge&logo=sass" alt="SASS" />
-  <img src="https://img.shields.io/badge/-bootstrap-EDEADE?style=for-the-badge&logo=bootstrap" alt="BOOTSTRAP" />
+  <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi" /></a>
 </p>
 
 <hr>
@@ -47,9 +94,3 @@
         src="https://activity-graph.herokuapp.com/graph?username=vahidsaberi&bg_color=141321&color=A8FDF6&line=D83B7D&point=F7D747&area_color=141321&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
         alt="GitHub Commits Graph" /></a>
         <hr>
-    
-<p><samp><strong>Contact Me</strong></samp></p>
-<p> 
-<a href="mailto:vahid_saberi@yahoo.com/"><img src="https://img.shields.io/badge/-yahoo-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Yahoo!" /></a>
-<a href="https://www.linkedin.com/in/vahid-saberi-5a839556/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
-</p>
