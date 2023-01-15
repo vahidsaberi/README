@@ -72,8 +72,3 @@
 <p align="center">
   <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi" /></a>
 </p>
-
-<a href="http://www.github.com/vahidsaberi"><img
-        src="https://activity-graph.herokuapp.com/graph?username=vahidsaberi&bg_color=141321&color=A8FDF6&line=D83B7D&point=F7D747&area_color=141321&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-        alt="GitHub Commits Graph" /></a>
-        <hr>
