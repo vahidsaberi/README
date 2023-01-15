@@ -70,7 +70,7 @@
 <br/>
 
 <p align="center">
-  <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi" /></a>
+  <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi&show_icons=true&theme=transparent" /></a>
 </p>
 
 <p align="center">
