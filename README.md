@@ -70,9 +70,9 @@
 <br/>
 
 <p align="center">
-  <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi&show_icons=true&theme=transparent" /></a>
+  <a href="#" alt="vahid saberi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=vahidsaberi&show_icons=true&theme=dracula" /></a>
 </p>
 
 <p align="center">
-  <a href="#" alt="vahid saberi's most used languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidsaberi&layout=compact" /></a>
+  <a href="#" alt="vahid saberi's most used languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidsaberi&layout=compact&theme=dracula" /></a>
 </p>
